@@ -1,7 +1,7 @@
 # Bienvenido-a-mi-Github
 <!-- Encabezado con banner -->
 <p align="center">
-  <img src=""Banner- ¡Hola! soy Alejandra Banda.png" alt="Banner de presentación" width="100%" />
+  <img src="Banner- ¡Hola! soy Alejandra Banda.png" alt="Banner de presentación" width="100%" />
 </p>
 
 <!-- Frases de bienvenida -->
