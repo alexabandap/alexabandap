@@ -55,7 +55,8 @@
 
 - [API Stand Tests](https://github.com/alexabandap/api_stand_tests) – Ejercicios educativos de pruebas de API con Postman y Python. Incluye consultas, validación de respuestas y documentación de incidencias.  
 
-- [Urban Grocers – QA Project](https://github.com/alexabandap/qa-project-Urban-Grocers-app-es) – Proyecto de automatización básica y pruebas de la app Urban Grocers. 
+- [Urban Grocers – QA Project](https://github.com/alexabandap/qa-project-Urban-Grocers-app-es) – Proyecto de automatización básica y pruebas de la app Urban Grocers.
+- [Portafolio QA ejercicios y documentación](https://github.com/alexabandap/Portafolio-QA) - Proyectos educativos de pruebas manuales y SQL 
 <!-- Frase motivacional -->
 <p align="center">
   🚀 "La calidad no es un acto, es un hábito"  
