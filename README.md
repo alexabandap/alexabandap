@@ -23,12 +23,18 @@
 <!-- Habilidades -->
 ## 🛠️ Habilidades y Herramientas
 <p align="center">
+## 🛠️ Habilidades y Herramientas
+<p align="center">
   <img src="https://img.shields.io/badge/-Testing-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-QA-lightblue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-GitHub-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Markdown-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Jira-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Selenium-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQL-red?style=for-the-badge" />
+</p>
 </p>
 
 ---
@@ -45,8 +51,15 @@
 </p>
 
 ---
+## 🚀 Proyectos Destacados
 
+- [API Stand Tests](https://github.com/alexabandap/api_stand_tests) – Ejercicios educativos de pruebas de API con Postman y Python. Incluye consultas, validación de respuestas y documentación de incidencias.  
+
+- [Urban Grocers – QA Project](https://github.com/alexabandap/qa-project-Urban-Grocers-app-es) – Proyecto de automatización básica y pruebas de la app Urban Grocers. 
 <!-- Frase motivacional -->
 <p align="center">
   🚀 "La calidad no es un acto, es un hábito"  
 </p>
+
+
+
