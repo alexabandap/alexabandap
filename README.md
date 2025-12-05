@@ -12,8 +12,8 @@
 
 <!-- Sobre mí -->
 ## ✨ Sobre mí
-- 🎓 Licenciada en Química y en proceso de para convertirme en **Quality Assurance (QA)**  
-- 🌱 Actualmente aprendiendo **Testing manual, automatización y Python**  
+- 🎓 **Quality Assurance (QA) Junior y Licenciada en Química
+- 🌱 Actualmente aprendiendo  **Testing manual, automatización y Python**  
 - 💡 Me interesa **aseguramiento de calidad, buenas prácticas y mejora continua**  
 - 🎯 Objetivo: crecer como **QA Engineer** y compartir mi aprendizaje en proyectos reales.
 - 🧬Apasionada de la ciencia y la naturaleza.
